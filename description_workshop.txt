@@ -1,15 +1,14 @@
 [h1]AutoSleep[/h1]
-Toggle automatic sleeping while standing in a bed. It is intended to use for afk farms, which only work during a specific time of day (like gnome farms), but you can do whatever you want with this mod.
+AutoSleep lets you toggle automatic sleeping while standing in a bed. It is intended to use for afk farms, which only work during a specific time of day (like gnome farms), but you can do whatever you want with this mod.
 
 [b]How it works[/b]
 [list]
 [*]Press the Auto Sleep keybind (default: Z) while touching a bed to toggle the sleep loop.
-[*]The loop only sleeps when you are within close proximity to the bed and are within the configured sleep hours.
+[*]The loop will only sleep when you are within close proximity to the bed and are within the configured sleep hours.
 [*]When sleep hours end, you wake up automatically.
 [*]The loop can optionally stop itself on specific conditions (death, config disabled, invalid sleep window, leaving the bed hitbox).
 [/list]
-
-[b]Config (client-side)[/b]
+[b]Config[/b]
 [list]
 [*]Enable/disable the mod
 [*]Enable/disable chat messages
@@ -20,8 +19,9 @@ Toggle automatic sleeping while standing in a bed. It is intended to use for afk
 [*]Stop loop on leaving the bed hitbox
 [*]Stop loop outside window (control whether stop conditions apply while outside sleep hours)
 [/list]
-
 [b]Notes[/b]
 [list]
 [*]Client-side only
 [/list]
+[b]Source Code[/b]
+The source code for this mod can be found [url=https://github.com/NassesSchwamm/AutoSleep]here[/url]
