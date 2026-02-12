@@ -1,0 +1,77 @@
+"Keybinds.Auto Sleep.DisplayName": Auto  Sleep
+
+Configs: {
+	AutoSleepConfig: {
+		DisplayName: Auto Sleep Config
+
+		Enabled: {
+			Label: Enabled
+			Tooltip: ""
+		}
+
+		ScanRangeTiles: {
+			Label: Scan Range Tiles
+			Tooltip: ""
+		}
+
+		WalkToBedFirst: {
+			Label: Walk To Bed First
+			Tooltip: ""
+		}
+
+		SleepDurationSeconds: {
+			Label: Sleep Duration Seconds
+			Tooltip: ""
+		}
+
+		SleepStartHour: {
+			Label: Sleep Start Hour
+			Tooltip: ""
+		}
+
+		SleepEndHour: {
+			Label: Sleep End Hour
+			Tooltip: ""
+		}
+
+		SleepEndTime: {
+			Tooltip: ""
+			Label: Sleep End Time
+		}
+
+		SleepStartTime: {
+			Tooltip: ""
+			Label: Sleep Start Time
+		}
+
+		ChatMessagesEnabled: {
+			Tooltip: ""
+			Label: Chat Messages Enabled
+		}
+
+		StopLoopOnDeath: {
+			Label: Stop Loop On Death
+			Tooltip: ""
+		}
+
+		StopLoopOnConfigDisabled: {
+			Label: Stop Loop On Config Disabled
+			Tooltip: ""
+		}
+
+		StopLoopOnInvalidSleepWindow: {
+			Label: Stop Loop On Invalid Sleep Window
+			Tooltip: ""
+		}
+
+		StopLoopOnLeaveBed: {
+			Label: Stop Loop On Leave Bed
+			Tooltip: ""
+		}
+
+		StopLoopOutsideWindow: {
+			Label: Stop Loop Outside Window
+			Tooltip: ""
+		}
+	}
+}
